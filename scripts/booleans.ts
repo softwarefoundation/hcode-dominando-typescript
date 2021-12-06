@@ -5,3 +5,4 @@ admin = Boolean(undefined);
 console.log(admin);
 admin = Boolean(0);
 console.log(admin);
+console.log(admin);
