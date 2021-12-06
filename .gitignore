@@ -23,6 +23,7 @@ bin/
 *.iml
 *.ipr
 *.js
+*.js.map
 package-lock.json
 out/
 /node_modules/
